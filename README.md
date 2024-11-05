@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PatotQ
-- 👀 I’m interested in learning programming *ruby/JS/CSS/github/rails/etc
-- 🌱 I’m currently learning ruby,JS,CSS,github,rails, active record, rspec, testing
-- 💞️ I’m looking to collaborate on any project to get me started :D
+- 👀 I’m interested in learning programming *ruby
+- 🌱 I’m currently learning ruby,SQL, CSS, HTML, Javascript, etc
+- 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me patricioborghi@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: im a jiu jitsu brown belt, dance teacher and HR professional 
